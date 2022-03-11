@@ -248,7 +248,7 @@ img {
 .text-container{
   display: flex;
 }
-.footer{
+.text-container{
   background-color: lightgray;
   margin-top: 50px;
 }
