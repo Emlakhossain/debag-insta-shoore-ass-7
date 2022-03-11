@@ -245,6 +245,14 @@ img {
   display: none;
 }
 
+.text-container{
+  display: flex;
+}
+.footer{
+  background-color: lightgray;
+  margin-top: 50px;
+}
+
 @media only screen and (max-width: 992px) {
   #posts {
     grid-template-columns: repeat(2, 1fr);
